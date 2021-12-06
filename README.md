@@ -22,3 +22,9 @@ This application is used by libraries to process videos
 
 -FFmpeg has a problem with Api 29 because of the permissions From the Android system
 
+
+
+-Knowing that the process of displaying the video when cutting was accomplished in a wonderful way similar to WhatsApp
+
+
+-I am ready for any question about the work of the code
