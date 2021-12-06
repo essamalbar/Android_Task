@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fafafa</color>
+    <color name="colorPrimaryDark">#c7c7c7</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="yellow">#ffeb3b</color>
+    <color name="red">#f44336</color>
+    <color name="black">#212121</color>
+    <color name="background_video_color">#2f3031</color>
+    <color name="background_progress_color">#6C6D6D</color>
+    <color name="progress_color">@color/colorPrimary</color>
+    <color name="line_color">#0DC143</color>
+    <color name="shadow_color">#FF000000</color>
+    <color name="line_button">#565758</color>
+    <color name="black_translucent">#50000000</color>
+</resources>

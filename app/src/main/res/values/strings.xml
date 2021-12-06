@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Android Task</string>
+    <string name="title_home">Home</string>
+    <string name="title_explore">Explore</string>
+    <string name="title_camera">Camera</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_profile">Profile</string>
+    <string name="retry_text">Error occurred! Check your internet connection. Tap to retry</string>
+    <string name="Error">Error occurred check internet connection tap to retry</string>
+    <string name="cancel">cancel</string>
+    <string name="save">save</string>
+    <string name="label_select_video">Select Video</string>
+    <string name="permission_title_rationale">Permission needed</string>
+    <string name="permission_read_storage_rationale">Storage read permission is needed to pick files.</string>
+    <string name="toast_cannot_retrieve_selected_video">Cannot retrieve selected video</string>
+    <string name="short_seconds">sec</string>
+    <string name="megabyte">MB</string>
+    <string name="kilobyte">KB</string>
+</resources>
