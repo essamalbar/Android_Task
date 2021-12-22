@@ -1,4 +1,4 @@
-# Android_Task
+# video browser with editing video
 This application is used by libraries to process videos
 
 -An Android application that was designed using Kotlin and Java, as it relies mainly on a set of technologies
